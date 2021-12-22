@@ -1,9 +1,9 @@
-html{
+/* html{
     background-image: url(Backdrop/bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-}
+} */
 * {
     box-sizing: border-box;
 }
